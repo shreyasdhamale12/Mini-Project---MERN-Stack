@@ -12,7 +12,8 @@ Like Posts: Users can like/unlike posts.
 
 Logout: Users can log out, which will clear their session.
 
-Technologies Used
+
+**Technologies Used** : 
 Node.js: Backend framework.
 
 Express: For handling routes and HTTP requests.
@@ -27,20 +28,20 @@ JWT (JsonWebToken): For managing user sessions with tokens.
 
 EJS: Template engine for rendering HTML views.
 
-Features
-User Registration & Login:
+**Features:**
 
+User Registration & Login:
 Passwords are hashed using bcrypt for security.
 Tokens are generated using JWT for login sessions.
+
 Post Content:
-
 Users can create and view their posts on their profile.
+
 Profile Picture:
-
 Users can upload and change their profile picture using multer for handling file uploads.
+
 Like Posts:
-
 Users can like or unlike posts.
-Session Management:
 
+Session Management:
 User sessions are maintained using JWT tokens. Logged-in users can access protected routes.
