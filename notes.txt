@@ -1,0 +1,13 @@
+Part-1
+users can write post
+login and register
+logout
+post  creation
+post like
+post delete
+Summary - Created register,login,logout used tokens and isLoggedIn as a middleware to verify,used bcrypt to verify the hash the password, used jwt to verify the user.
+
+Part-2
+how to create a post and display it to the user.
+
+Part-3
