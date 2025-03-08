@@ -1,4 +1,6 @@
-This is a basic mini project where users can:
+This is a Mini project 
+
+**1.Where users can:**
 
 Register: Create a new account with a username, email, and password.
 
@@ -13,7 +15,8 @@ Like Posts: Users can like/unlike posts.
 Logout: Users can log out, which will clear their session.
 
 
-**Technologies Used** : 
+**2.Technologies Used** : 
+
 Node.js: Backend framework.
 
 Express: For handling routes and HTTP requests.
@@ -28,7 +31,7 @@ JWT (JsonWebToken): For managing user sessions with tokens.
 
 EJS: Template engine for rendering HTML views.
 
-**Features:**
+**3.Features:**
 
 User Registration & Login:
 Passwords are hashed using bcrypt for security.
