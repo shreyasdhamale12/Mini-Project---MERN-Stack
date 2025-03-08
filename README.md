@@ -14,11 +14,17 @@ Logout: Users can log out, which will clear their session.
 
 Technologies Used
 Node.js: Backend framework.
+
 Express: For handling routes and HTTP requests.
+
 MongoDB: Database for storing user info and posts.
+
 Multer: Middleware for handling file uploads (profile pictures).
+
 Bcrypt: For password hashing and secure comparison.
+
 JWT (JsonWebToken): For managing user sessions with tokens.
+
 EJS: Template engine for rendering HTML views.
 
 Features
