@@ -1,10 +1,15 @@
 This is a basic mini project where users can:
 
 Register: Create a new account with a username, email, and password.
+
 Login: Log in using their email and password (passwords are securely hashed with bcrypt).
+
 Post Content: After logging in, users can post content.
+
 Change Profile Picture: Users can upload a new profile picture (using multer for file uploads).
+
 Like Posts: Users can like/unlike posts.
+
 Logout: Users can log out, which will clear their session.
 
 Technologies Used
