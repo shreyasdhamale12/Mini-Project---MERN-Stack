@@ -15,6 +15,7 @@ Like Posts: Users can like/unlike posts.
 Logout: Users can log out, which will clear their session.
 
 
+
 **2.Technologies Used** : 
 
 Node.js: Backend framework.
@@ -30,6 +31,8 @@ Bcrypt: For password hashing and secure comparison.
 JWT (JsonWebToken): For managing user sessions with tokens.
 
 EJS: Template engine for rendering HTML views.
+
+
 
 **3.Features:**
 
